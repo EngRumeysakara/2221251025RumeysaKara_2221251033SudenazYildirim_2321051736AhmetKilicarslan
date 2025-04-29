@@ -12,14 +12,15 @@ public class b {
     
     int age;
     String name;
-   int salary;
+
+    String position;
     
-    public b(int age,String name,int salary){
+    public b(int age,String name,String position){
     this.age=age;
     this.name=name;
-     this.salary=salary   
+    this.position=position;
         
-    
+
     }
    
     
