@@ -12,10 +12,13 @@ public class b {
     
     int age;
     String name;
+   int salary;
     
-    public b(int age,String name){
+    public b(int age,String name,int salary){
     this.age=age;
     this.name=name;
+     this.salary=salary   
+        
     
     }
    
