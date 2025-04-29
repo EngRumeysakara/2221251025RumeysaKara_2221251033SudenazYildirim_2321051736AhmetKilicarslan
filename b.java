@@ -12,11 +12,12 @@ public class b {
     
     int age;
     String name;
+    String position;
     
-    public b(int age,String name){
+    public b(int age,String name,String position){
     this.age=age;
     this.name=name;
-    
+    this.position=position;
     }
    
     
